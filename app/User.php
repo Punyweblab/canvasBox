@@ -18,7 +18,7 @@ class User extends Authenticatable
     /**
      * User to project relationship
      */
-    public function project(){
+    public function projects(){
         return $this->hasMany('App\Project');
     }
 }
