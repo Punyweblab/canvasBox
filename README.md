@@ -1,2 +1,2 @@
-# canvasBox
+# CanvasBox
 A project updating system
